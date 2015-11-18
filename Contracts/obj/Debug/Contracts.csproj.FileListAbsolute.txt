@@ -1,0 +1,4 @@
+E:\Project\WCFDuplex\Contracts\bin\Debug\Contracts.dll
+E:\Project\WCFDuplex\Contracts\bin\Debug\Contracts.pdb
+E:\Project\WCFDuplex\Contracts\obj\Debug\Contracts.dll
+E:\Project\WCFDuplex\Contracts\obj\Debug\Contracts.pdb

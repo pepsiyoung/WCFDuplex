@@ -1,0 +1,8 @@
+E:\Project\WCFDuplex\Client\bin\Debug\Client.exe.config
+E:\Project\WCFDuplex\Client\bin\Debug\Client.exe
+E:\Project\WCFDuplex\Client\bin\Debug\Client.pdb
+E:\Project\WCFDuplex\Client\bin\Debug\Contracts.dll
+E:\Project\WCFDuplex\Client\bin\Debug\Contracts.pdb
+E:\Project\WCFDuplex\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\WCFDuplex\Client\obj\Debug\Client.exe
+E:\Project\WCFDuplex\Client\obj\Debug\Client.pdb
