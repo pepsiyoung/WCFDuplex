@@ -7,6 +7,7 @@ using System.Text;
 
 namespace Services
 {
+    //[ServiceBehavior(ConcurrencyMode=ConcurrencyMode.Multiple)]
     public class CalculatorService : ICalculator
     {
         public void Add(double x, double y)
